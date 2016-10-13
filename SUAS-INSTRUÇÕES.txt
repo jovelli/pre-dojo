@@ -1,2 +1,17 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+============================================================================
+===============================LogStatsKiller===============================
+============================================================================
+
+	-- O programa roda como um .jar.  java -jar LogStatsKiller.jar
+	-- Abre um Dialog com filtro arquivos .log.
+	-- Valida o formato do arquivo .log.
+	-- Processa e coloca as informacoes dentro de um arquivo de saida na pasta corrente.
+	
+	-- O programa foi desenvolvido na versao Java 1.8.0_101. Precisa ser executado com o JRE desta versao!
+	
+	-- Todos os bonus foram feitos.
+	-- Junit Tests foram criados.
+  
+============================================================================
+============================================================================
+============================================================================
